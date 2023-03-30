@@ -1,4 +1,5 @@
-# Supports de formation
-Ici, je partage mes supports de la formation.
-Ainsi que ceux utilisés pour réaliser le module.
-Tous, gratuits et libres de droits et d'utilisation.
+# La gestion de conflits
+Les branches de ce repo
+sont les supports, PDF et fichiers
+utilisés pour la créer.
+Tous, libres de droits et gratuits.
